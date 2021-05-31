@@ -1,4 +1,6 @@
-﻿using System;
+﻿// https://www.aspsnippets.com/Articles/Using-jQuery-DataTables-in-ASPNet-MVC.aspx
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
